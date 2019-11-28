@@ -1,0 +1,15 @@
+<resources>
+<string name="app_name">My Application</string>
+<string-array name="types">
+    <item>Breakfast</item>
+    <item>Appetizer</item>
+    <item>Dessert</item>
+    <item>Main Dish</item>
+</string-array>
+<string-array name="waysOfMeasuring">
+    <item>Tbsp</item>
+    <item>Tsp</item>
+    <item>Cup</item>
+    <item>Pinch</item>
+</string-array>
+</resources>
